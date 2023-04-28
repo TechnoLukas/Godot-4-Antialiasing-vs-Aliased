@@ -1,0 +1,8 @@
+2a60927148abd1d33b818b535e306557
+::res://::1682720628
+getmouse.gd::GDScript::-1::1682719657::0::1::::<>ColorRect<>::
+icon.svg::CompressedTexture2D::3245492325538098267::1682713594::1682713598::1::::<><>::
+main.gdshader::Shader::-1::1682720023::0::1::::<><>::
+main.tscn::PackedScene::8458664784497776144::1682720023::0::1::::<><>::res://main.gdshader<>res://getmouse.gd
+README.md::TextFile::-1::1682720575::0::1::::<><>::
+::res://images/::1682720272
