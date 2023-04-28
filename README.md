@@ -1,4 +1,4 @@
-# Godot 4 Antialiasing/Aliased
+# Godot 4 Antialiasing VS Aliased
 
 porting my shadertoy https://www.shadertoy.com/view/clt3zS to Godot 4
 
